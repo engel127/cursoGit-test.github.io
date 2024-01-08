@@ -2,11 +2,13 @@
 <html>
     <head>
         <title>Hello word</title>
-    
+        <link rel="stylesheet" href="bluestyle.css"
     </head>
+    
     <body>
         <h1>hello word </h1>
         <p>This is the first file in my new Git Repo.</p>
+        <p>A new line in our file!</p>
 
 
     </body>
